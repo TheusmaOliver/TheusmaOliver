@@ -12,8 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fangular-icon&psig=AOvVaw1nz3XRd6Qa8SmNWm6o3InA&ust=1620923955486000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD-mbzKxPACFQAAAAAdAAAAABAD" alt="angular" width="20" height="20"/></p><p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TheusmaOliver&show_icons=true" alt="maykbrito"/> 
 </p>
 <!---
