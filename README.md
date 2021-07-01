@@ -16,7 +16,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TheusmaOliver&show_icons=true" alt="TheusmaOLiver" width="450"/> 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheusmaOliver&show_icons=true&langs_count=10&layout=compact&theme=buefy&count_private=true" alt="Linguagens" width="450"/>
-  ![Snake animation](https://github.com/TheusmaOliver/TheusmaOliver/blob/output/github-contribution-grid-snake.svg)
 </p>
 <!---
 TheusmaOliver/TheusmaOliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
